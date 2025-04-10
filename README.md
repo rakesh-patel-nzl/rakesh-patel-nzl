@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakesh-patel-nzl
 - 👀 I’m interested in AI, Finance, Options Trading
 - 🌱 I’m currently learning to be a better trader
-- 💞️ I’m looking to collaborate on autoated trading systems
+- 💞️ I’m looking to collaborate on automated trading systems
 - 📫 How to reach me via my email: rakesh@rakeshpatel.com
 - ⚡ Fun fact: I suck at Golf, but still can't stop playing. 
 
